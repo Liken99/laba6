@@ -112,7 +112,7 @@ sub_a.prod(a)
 subject.attach(sub_a)
 
 sub_b = Buyer_b()
-b = ["Moloko", "Pomidor"]
+b = ["Moloko", "Ogurec"]
 sub_b.prod(b)
 subject.attach(sub_b)
 
