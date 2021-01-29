@@ -107,7 +107,7 @@ class Buyer_c(Buyer):
 subject = Subject()
 
 sub_a = Buyer_a()
-a = ["Kartoshka", "Rise"]
+a = ["Kartoshka", "Ykrop"]
 sub_a.prod(a)
 subject.attach(sub_a)
 
@@ -122,4 +122,4 @@ sub_c.prod(c)
 subject.attach(sub_c)
 
 
-subject.action(["Cok", "Pirog","Moloko", "Kartoshka", "Rise", "Tea", "Spoon", "Kolbasa"])
+subject.action(["Cok", "Pirog","Moloko", "Kartoshka", "Ykrop", "Tea", "Spoon", "Kolbasa"])
